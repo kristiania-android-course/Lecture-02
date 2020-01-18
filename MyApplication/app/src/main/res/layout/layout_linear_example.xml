@@ -9,7 +9,7 @@
 
     <ImageView
         android:layout_marginTop="16dp"
-        android:id="@+id/imageView1"
+        android:id="@+id/imageViewApple"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         app:srcCompat="@drawable/apple" />
@@ -17,14 +17,13 @@
     <ImageView
         android:layout_marginTop="16dp"
 
-        android:id="@+id/imageView2"
+        android:id="@+id/imageViewOrange"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         app:srcCompat="@drawable/orange" />
 
     <ImageView
-        android:id="@+id/imageView3"
-
+        android:id="@+id/imageViewStrawberry"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginTop="16dp"

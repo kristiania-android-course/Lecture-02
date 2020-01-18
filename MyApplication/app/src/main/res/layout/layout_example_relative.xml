@@ -43,7 +43,13 @@
 
 
 
-
+    <ImageView
+        android:layout_marginLeft="16dp"
+        android:layout_alignBottom="@+id/imageViewStrawberry"
+        android:src="@drawable/rectangle"
+        android:id="@+id/imageViewRectangle"
+        android:layout_width="100dp"
+        android:layout_height="60dp"/>
 
 
 </RelativeLayout>

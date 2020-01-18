@@ -2,4 +2,8 @@
 <resources>
     <dimen name="fab_margin">16dp</dimen>
     <dimen name="text_font_size">20sp</dimen>
+    <dimen name="margin">16dp</dimen>
+    <dimen name="margin_2x">32dp</dimen>
+    <dimen name="margin_header">200dp</dimen>
+
 </resources>
