@@ -1,16 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <string name="app_name">Hello World</string>
-    <string name="my_message">Vola..!! it worked</string>
-    <string name="title_activity_example">Example</string>
-    <string name="tiltle">Title bar</string>
-    <string name="title">Title</string>
+    <string name="app_name">Hei Verden</string>
+    <string name="my_message">Vola..!! Det funket</string>
+    <string name="title_activity_example">Eksempel</string>
+    <string name="title">Tittel</string>
     <string name="message">Message</string>
-    <string name="start">Start</string>
-    <string name="today">Today</string>
-    <string name="end">End</string>
-    <string name="select_location">Select Location</string>
-    <string name="repeating">Repeating</string>
-    <string name="my_content">My content</string>
+    <string name="start">Beskjed</string>
+    <string name="today">I dag</string>
+    <string name="end">Slutt</string>
+    <string name="select_location">Velg plassering</string>
+    <string name="repeating">Gjentar</string>
+    <string name="my_content">Mitt innhold</string>
 </resources>
